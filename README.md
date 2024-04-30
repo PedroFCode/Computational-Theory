@@ -12,7 +12,7 @@ This contains the full project on the numbers game, Countdown. This includes inf
 
 This is used to save all the correct expressions found due the possiblity of being many expressions.
 
-# rpn.txt
+## rpn.txt
 
 This text file shows the results received from the algorithm using Reverse Polisn Notation (RPN). 
 
