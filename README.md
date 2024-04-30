@@ -4,13 +4,17 @@ This is my repository for Computational Theory project in 4th Year in Software D
 
 Files contained are: 
 
-## project.ipynb
+## countdown.ipynb
 
 This contains the full project on the numbers game, Countdown. This includes information on the actual game and algorithms for solving the problem by generating random numbers and finding the expressions that solve for the randomly generated target number.
 
 ## results.txt
 
 This is used to save all the correct expressions found due the possiblity of being many expressions.
+
+# rpn.txt
+
+This text file shows the results received from the algorithm using Reverse Polisn Notation (RPN). 
 
 ## Cloning or Downloading this Repository
 
